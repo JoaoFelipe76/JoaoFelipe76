@@ -2,7 +2,7 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
 
 ##
 
-- 🧑‍💻 Soeu estudande de Engenharia de Software na Unifio.
+- 🧑‍💻 Sou estudande de Engenharia de Software na Unifio.
 - 🤖 Sou apaixonado por Desenvolvimento de IA.
 - 🧠 Meu conjunto de habilidades inclui a coleta e preparação de dados, a aplicação de algoritmos de aprendizado de máquina, a construção de modelos preditivos e a visualização dos resultados de maneira clara e concisa.
 - 📈 Atualmente estou estudando  Data Science na área de finanças.
