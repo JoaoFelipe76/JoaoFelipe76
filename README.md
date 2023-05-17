@@ -4,7 +4,7 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
 
 - 🧑‍💻 Sou estudande de Engenharia de Software na Unifio.
 - 🤖 Sou apaixonado por Desenvolvimento de IA.
-- 🧠 Criando soluções inovadoras, eficientes e de alto desempenho
+- 🧠 Criando soluções inovadoras, eficientes e de alto desempenho.
 - 🤝 Email: jf.lzn@outlook.com
 
 <br>
