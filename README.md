@@ -3,7 +3,7 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
 ##
 
 - 🧑‍💻 Sou estudande de Engenharia de Software na Unifio.
-- 🤖 Gosto muito de fazer pesquisas e desenvolver IA.
+- 🤖 Gosto muito de fazer pesquisas sobre IA.
 - 🧠 Apaixonado por engenharia de software, criando soluções inovadoras, eficientes e de alto desempenho.
 - 🤝 Email: jf.lzn@outlook.com
 
@@ -15,10 +15,11 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
 <div style="display: inline_block"><br>
 
  
- <img align="center" alt="Jf_py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
- <img align="center" alt="Jf_R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> 
- <img align="center" alt="Jf_R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />   
+ <img align="center" alt="Jf_R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ <img align="center" alt="Jf_py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  />
+ <img align="center" alt="Jf_R" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
  <img align="center" alt="Jf_MY_SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+ <img align="center" alt="Jf_R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
   
  
 
