@@ -9,7 +9,7 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipeL76)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe76)](https://github.com/anuraghazra/github-readme-stats)
 
    
 <div style="display: inline_block"><br>
