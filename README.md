@@ -18,7 +18,7 @@ Olá eu sou o João Felipe Lorenzon 👋<br>
  <img align="center" alt="Jf_java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
  <img align="center" alt="Jf_spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  /> 
  <img align="center" alt="Jf_MY_SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img align="center" alt="Jf_docker" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>  
+ 
 
   
  
