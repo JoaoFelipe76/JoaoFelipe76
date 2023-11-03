@@ -5,7 +5,9 @@ Welcome!! 👋<br>
 - 🧑‍💻 Estudande de Engenharia de Software na Unifio.
 - 🤖 Gosto muito de tudo que tenha a ver com IA.
 - 🧠 Apaixonado por engenharia de software, criando soluções inovadoras, eficientes e de alto desempenho.
+-     Estou sempre aberto a aprender novas tecnologias.
 - 🤝 Email: joaof.lorenzon@outlook.com
+  
 
 <br>
 
