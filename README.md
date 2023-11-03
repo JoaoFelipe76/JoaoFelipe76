@@ -2,9 +2,10 @@ Welcome!! 👋<br>
 
 ##
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe76&layout=compact)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe76&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ <br>
  <br>
 
 - 🧑‍💻 Estudande de Engenharia de Software na Unifio.
