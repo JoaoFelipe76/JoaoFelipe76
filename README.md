@@ -24,7 +24,7 @@ Welcome!! 👋<br>
  <img align="center" alt="Jf_spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  /> 
  <img align="center" alt="Jf_MY_SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
  <img align="center" alt="Jf_MY_SQL" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
- <img align="center" alt="Jf_MY_SQL" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+
  
 
  
