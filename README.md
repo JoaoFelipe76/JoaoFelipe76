@@ -12,7 +12,7 @@ Welcome!! 👋<br>
 - 🧑‍💻 Desenvolvedor Java e Engenheiro de Software.
 - 🤖 Gosto muito de tudo que tenha a ver com IA.
 - 🧠 Apaixonado por engenharia de software, criando soluções inovadoras, eficientes e de alto desempenho.
-- 📚 Sempre aberto a aprender novas tecnologias. Estou sempre aberto a aprender novas tecnologias.
+- 📚 Sempre aberto a aprender novas tecnologias.
 - 🤝 Email: joaof.lorenzon@outlook.com
   
 <br>
