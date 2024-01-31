@@ -8,11 +8,11 @@ Welcome!! 👋<br>
  <br>
  <br>
 
-- 🧑‍💻 Estudande de Engenharia de Software na Unifio.
-- 🧑‍💻 Desenvolvedor Java e Engenheiro de Software.
-- 🤖 Gosto muito de tudo que tenha a ver com IA.
-- 🧠 Apaixonado por engenharia de software, criando soluções inovadoras, eficientes e de alto desempenho.
-- 📚 Sempre aberto a aprender novas tecnologias.
+- 🧑‍💻 Software Engineering student at Unifio.
+- 🧑‍💻 Back-end Developer and Software Engineer.
+- 🤖 I'm a big fan of everything related to AI.
+- 🧠 assionate about software engineering, creating innovative, efficient, and high-performance solutions.
+- 📚 Always open to learning new technologies.
 - 🤝 Email: joaof.lorenzon@outlook.com
   
 <br>
