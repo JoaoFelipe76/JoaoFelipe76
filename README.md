@@ -9,8 +9,7 @@ Welcome!! 👋<br>
  <br>
 
 - 🧑‍💻 Software Engineering student at Unifio.
-- 🧑‍💻 Back-end Developer and Software Engineer.
-- 🤖 I'm a big fan of everything related to AI.
+- 🧑‍💻 Back-end Developer.
 - 🧠 assionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
 - 🤝 Email: joaof.lorenzon@outlook.com
