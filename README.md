@@ -8,7 +8,7 @@ Welcome!! 👋<br>
  <br>
  <br>
 
-- 🧑‍💻 Software Engineering student at Unifio.
+- 🧑‍💻 Software Engineering student.
 - 🧑‍💻 Back-end Developer.
 - 🧠 assionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
