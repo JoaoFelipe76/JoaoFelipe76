@@ -1,13 +1,13 @@
-
 ## Welcome!! 👋
 
 <!-- Espaçamento -->
 <br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe76&layout=compact" alt="Top Languages" style="width: 300px; height: auto; margin-right: 5px;">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" style="width: 300px; height: auto;">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome GIF" style="display: block; margin-left: auto; margin-right: auto;" width="300">
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFelipe76&layout=compact)
 
 <br>
 
@@ -31,3 +31,4 @@
   <img align="center" alt="Jf_git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 </div>
+
