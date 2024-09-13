@@ -41,6 +41,8 @@ Welcome!! 👋<br>
 
 </div>
 
-![snake animation](https://github.com/<JoaoFelipe76>/<JoaoFelipe76>/blob/output/github-contribution-grid-snake2.svg)
+
 
  ## 
+
+ ![snake animation](https://github.com/<JoaoFelipe76>/<JoaoFelipe76>/blob/output/github-contribution-grid-snake2.svg)
