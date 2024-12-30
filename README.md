@@ -8,6 +8,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JoaoFelipe76&rank_icon=github" width="400" alt="Anurag's GitHub stats">
   </a>
+  
 </p>
 
 
