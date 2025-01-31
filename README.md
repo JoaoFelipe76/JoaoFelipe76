@@ -19,7 +19,7 @@
 <br>
 
 - 🧑‍💻 Software Engineering student.
-- 🧑‍💻 Full Stack Developer.
+- 🧑‍💻 Back-End Developer | AI + Automations 
 - 🧠 Passionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
 - 🤝 Email: joaof.lorenzon@outlook.com
