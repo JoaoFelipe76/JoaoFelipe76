@@ -19,7 +19,7 @@
 <br>
 
 - 🧑‍💻 Software Engineering student.
-- 🧑‍💻 Back-End Developer | AI + Automations 
+- 🧑‍💻 Full-Stack Developer | AI + Automations 
 - 🧠 Passionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
 - 🤝 Email: joaof.lorenzon@outlook.com
@@ -31,7 +31,7 @@
  <img align="center" alt="Jf_java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
  <img align="center" alt="Jf_spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
  <img align="center" alt="Jf_node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- <img align="center" alt="Jf_nest js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+ <img align="center" alt="Jf_express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
  <img align="center" alt="Jf_angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> 
  <img align="center" alt="Jf_react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
  <img align="center" alt="Jf_next" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
