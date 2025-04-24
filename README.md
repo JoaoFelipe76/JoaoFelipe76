@@ -19,7 +19,7 @@
 <br>
 
 - 🧑‍💻 Software Engineering student.
-- 🧑‍💻 Full-Stack Developer | AI + Automations 
+- 🧑‍💻 Full-Stack & AI Developer
 - 🧠 Passionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
 - 🤝 Email: joaof.lorenzon@outlook.com
@@ -30,6 +30,8 @@
 
  <img align="center" alt="Jf_java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
  <img align="center" alt="Jf_spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
+ <img align="center" alt="Jf_python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img align="center" alt="Jf_python" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
  <img align="center" alt="Jf_node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="center" alt="Jf_express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
  <img align="center" alt="Jf_angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> 
