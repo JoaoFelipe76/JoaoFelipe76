@@ -11,7 +11,7 @@
 <br>
 
 
-- 🧑‍💻 Backend & AI Software Engineer.
+- 🧑‍💻 AI Engineer & Full Stack Developer 
 - 🧠 Passionate about software engineering, creating innovative, efficient, and high-performance solutions.
 - 📚 Always open to learning new technologies.
 - 🤝 Email: jf.lzn@outlook.com
